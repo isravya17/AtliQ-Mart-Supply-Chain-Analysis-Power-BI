@@ -25,3 +25,11 @@ Create the metrics according to the metrics list. Create a dashboard according t
 ## Dashboard
 
 ## Insights from Dashboard
+  - Key Metrics (OT%, IF%, OTIF%) are significantly below the target.  
+  - On average, orders are delivered 0.42 days later than the agreed delivery date.  
+  - Lotus Mart, Coolblue, and Acclaimed Stores have the highest order volumes and also face the most delays in timely deliveries.  
+  - Could inaccurate delivery date estimations be causing these delays?  
+  - Are we receiving more orders than anticipated?  
+  - Ghee, curd, and butter are the most delayed product categories.  
+  - There have been no significant improvements in any key metrics over the past few months.  
+  - A substantial gap in IF% is observed for most customers. Could this be due to insufficient production?  
